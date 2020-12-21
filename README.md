@@ -1,6 +1,2 @@
 # README #
-jhgajhgjkdahgjagfg
-gahgjashgasd
-
-gafgjadshgk
-adfsgjah
+Welcome to my very first Git/Github repository!
